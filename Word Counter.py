@@ -26,5 +26,12 @@ for word in filteredText:
 
 print(wordCount)
 
+writeFile = open('writeFile.txt','w')
+for keys in wordCount:
+    writeFile.write("{}:{} \n".format(keys,wordCount[keys]))
+
+writeFile.close()
+
+
 
 
