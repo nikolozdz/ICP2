@@ -1,0 +1,9 @@
+Python:1 
+Course:3 
+Deep:2 
+Learning:2 
+Talks:1 
+Udemy:1 
+Big:1 
+Data:1 
+Programming:1 
